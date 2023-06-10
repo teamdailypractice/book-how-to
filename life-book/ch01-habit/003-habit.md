@@ -1,23 +1,14 @@
-# What Habit
+# Books - Courses
 
-* What is a habit?
-* What are the habits I currently have?
-* How productive/good habits contribute to my quality of life?
-* How do I cultivate new habits?
-* Why should I cultivate new habits
-
-## Why Habit?
-
-* Introspection - Introspection is the examination of one's own conscious thoughts and feelings
-* Self-reflection - The ability to witness and evaluate our own cognitive, emotional, and behavioural processes.
 
 ## Books
 
+* [Tiny Habit by BJ Fogg](https://tinyhabits.com/)
+  * The Small Changes That Change Everything
+* [Atomic Habits by James Clear](https://jamesclear.com/)
+* [Mini Habits by Stephen Guise](https://minihabits.com/)  
+* Seven habits of highly effective people
+* Pomodoro technique
 
-
-## References
-
-* [Introspection](https://en.wikipedia.org/wiki/Introspection)
-* [Contemplation](https://en.wikipedia.org/wiki/Contemplation)
-* [Self reflection](https://en.wikipedia.org/wiki/Self-reflection)
+## Courses
 

@@ -3,7 +3,10 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: ch01-habit/001-habit.md
-- file: ch01-habit/002-habit.md
-
+parts:
+- caption:
+  chapters:
+  - file: ch01-habit/001-habit
+    sections:
+    - file: ch01-habit/002-habit
+    - file: ch01-habit/003-habit

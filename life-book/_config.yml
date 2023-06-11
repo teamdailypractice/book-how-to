@@ -2,9 +2,9 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Life How to
-author: Student-Teacher-Student - https://dailypractice.info
+author: <a href="https://dailypractice.info">DailyPractice.info</a>
 logo: daily-one-percent.png
-
+copyright: 2020-2023
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:

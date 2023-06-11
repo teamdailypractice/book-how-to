@@ -28,7 +28,7 @@
 
 ## Thoughts
 
-## Speech
+## Speech (Talk/Say/Suggest/Advise/Ask/Request/Command/Yell)
 
 ## Action
 

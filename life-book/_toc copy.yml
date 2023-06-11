@@ -4,7 +4,7 @@
 format: jb-book
 root: intro
 parts:
-- caption: 
+- caption: Questions
   chapters:
   - file: ch00-questions/001-questions
     sections:

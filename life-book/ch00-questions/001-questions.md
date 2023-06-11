@@ -1,6 +1,7 @@
 # Questions
 
-* Be a good listener
+* Asking questions, is a skill to be developed, practiced every day
+* To ask questions, I have to be **a good listener**
 
 ## Question Patterns
 
@@ -13,6 +14,12 @@
 * How?
 * How much?
 * How long?
+* What if?
+* How about?
+* Why not?
+* What are the alternative options available?
+* What should I try?
+
 
 ## How to ask Questions?
 
@@ -31,11 +38,10 @@
 * Email
 * Whatsapp/....
 
-
 ## Asking Tough questions?
 
 * Can I write it down?
 * Can I postpone asking the question for 1 hour/2 hours/8 hours/1 day?
 * Can I review what I wrote?
 * Do I really need to ask?
-* Can I ask in a better way?
+* Can I ask/put it in a better way?

@@ -8,7 +8,7 @@ parts:
   chapters:
   - file: ch00-questions/001-questions
     sections:
-    - file: ch00-questions/002-questions    
+    - file: ch00-questions/002-listening
 - caption:
   chapters:
   - file: ch01-habit/001-habit

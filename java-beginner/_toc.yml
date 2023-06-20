@@ -1,0 +1,17 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+- caption: 
+  chapters:
+  - file: ch00-installation/001-install
+    sections:
+    - file: ch00-questions/002-listening
+- caption:
+  chapters:
+  - file: ch01-habit/001-habit
+    sections:
+    - file: ch01-habit/002-habit
+    - file: ch01-habit/003-habit

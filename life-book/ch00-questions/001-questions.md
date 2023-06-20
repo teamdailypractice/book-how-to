@@ -1,6 +1,7 @@
 # Questions
 
 * Asking questions, is a skill to be developed, practiced every day
+* [Make Just one Change](https://rightquestion.org/resources/make-just-one-change/)
 * To ask questions, I have to be **a good listener**
 
 ## Question Patterns

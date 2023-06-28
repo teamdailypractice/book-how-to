@@ -2,6 +2,7 @@
 
 * Becoming Good in Java
 * Job ready in Java
+* Java Certification
 
 ## How?
 

@@ -1,6 +1,7 @@
 # Listening - A skill
 
 * **W.A.I.T.**, which stands for **Why Am I Talking?**
+
 * **What do you think?** Most important question to ask
 
 ## Be Fully Present

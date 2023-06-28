@@ -28,6 +28,7 @@ jupyter-book build life-book
 * remove the _static from build\html output directory
 * images with respect to book can i put in separate directory? my-images? see how it works?
 
+## TODO
 
 basics-cs
 java-beginner
@@ -36,3 +37,7 @@ java-beginner
 
 cd ~/git/book-how-to
 jupyter-book build java-beginner
+
+
+jupyter-book create computer-basics
+jupyter-book build computer-basics

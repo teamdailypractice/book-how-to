@@ -22,3 +22,5 @@
 * Diagrams
 * Reference sites/books for details...
 
+\\wsl.localhost\Ubuntu-22.04\home\book\git\book-how-to\computer-basics\my-images
+
